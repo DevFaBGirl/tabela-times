@@ -1,0 +1,55 @@
+
+
+     table{
+        width: 50%;
+   }
+
+   th{
+    text-align: center;
+  }
+
+   td {
+    height: 25px; text-align: center; 
+    }
+
+    th, td {
+        border-bottom: 1px solid #ddd;
+        padding: 10px;
+      }
+
+
+           
+   #azul{
+        font-size: 20px; color: rgb(7, 7, 190); font-family: Cambria, Cochin, Georgia; text-align: center
+    }
+
+    #azulbebe{
+        font-size: 20px; color: rgb(0, 183, 255); font-family: Cambria, Cochin, Georgia; text-align: center
+    }
+
+    #laranja{
+        font-size: 20px; color: rgb(255, 208, 0); font-family: Cambria, Cochin, Georgia; text-align: center
+    }
+
+    #cinza{
+        font-size: 20px; color: rgb(112, 111, 108); font-family: Cambria, Cochin, Georgia; text-align: center
+    }
+
+    #vermelho{
+        font-size: 20px; color: rgb(255, 0, 0); font-family: Cambria, Cochin, Georgia; text-align: center
+    }
+
+
+    .branco{
+        background-color: white;
+    }
+    .cinza{
+        background-color: rgb(238, 234, 234);
+    }
+
+   
+
+
+
+
+   
